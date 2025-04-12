@@ -1,0 +1,21 @@
+FONT_LICENSE.txt
+================
+SIL Open Font License, Version 1.1
+---------------------------------
+All font files in fonts/fonts-main/ofl/, sourced from the /ofl subfolder of the Google Fonts GitHub repository (https://github.com/google/fonts), are licensed under the SIL Open Font License, Version 1.1. This includes, but is not limited to:
+- Cormorant (Roman, Italic, Infant, Infant Italic, Garamond, Garamond Italic, Upright Cursive, Small Caps, Unicase)
+- PlayfairDisplay (Regular, Italic, Variable Weight, SC variants)
+- Poppins (Thin, ExtraLight, Light, Regular, Medium, SemiBold, Bold, ExtraBold, Black, Italics)
+- Rubik (Regular, Italic, Variable Weight, Bubbles, Glitch, MonoOne, etc.)
+- [Other families: full list in fonts/fonts-main/ofl/]
+These fonts may be used in video captioning (e.g., moviepy.TextClip). Verify usage in overlay_captions.py or other scripts.
+SIL OPEN FONT LICENSE
+Version 1.1 - 26 February 2007
+[Full OFL text: https://scripts.sil.org/OFL]
+Copyright Notices
+----------------
+- Cormorant: Copyright 2015 The Cormorant Project Authors (https://github.com/CatharsisFonts/Cormorant)
+- PlayfairDisplay: Copyright 2011-2020 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display)
+- Poppins: Copyright 2014-2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+- Rubik: Copyright 2015-2020 The Rubik Project Authors (https://github.com/googlefonts/rubik)
+- Other fonts: See individual font metadata in fonts/fonts-main/ofl/*/OFL.txt
